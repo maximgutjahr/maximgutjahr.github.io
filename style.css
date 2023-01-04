@@ -19,3 +19,14 @@ body {
     font-size: xx-large;
     font-weight: bold;
 }
+
+#logo-attribute {
+    position: absolute;
+    transform: translateX(-50%);
+
+    bottom: 10px;
+    left: 50%;
+
+    font-size: 10px;
+    color: rgb(60, 60, 60);
+}

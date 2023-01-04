@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+#wip-indicator {
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+    top: 50%;
+    left: 50%;
+
+    text-align: center;
+}
+
+#wip-indicator-title {
+    font-size: xx-large;
+    font-weight: bold;
+}
